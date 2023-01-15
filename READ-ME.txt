@@ -1,0 +1,7 @@
+This is a very simple script with very basic HTML and CSS which I made years ago. But the goal was to practice JS and DOM.
+
+To do list
+
+You can input a text value and added to a list by pressing a button.
+You can clear the entire list with another button
+You can clear a single task by clicking another button
