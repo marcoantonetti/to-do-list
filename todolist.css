@@ -1,0 +1,70 @@
+body {
+    background: linear-gradient(90deg, rgb(251, 251, 251), rgba(210, 196, 196, 0.562), rgb(175, 155, 155));
+
+
+}
+
+
+h1 {
+    text-align: center;
+}
+
+
+#add {
+    background-color: turquoise;
+
+}
+
+#clear {
+    background-color: red;
+}
+
+.done {
+    margin: 10px;
+}
+
+button {
+    padding: 10px;
+    border-radius: 5px;
+    border-color: rgba(192, 184, 184, 0.377);
+
+    font-weight: 550;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+
+#input {
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#task {
+
+    padding: 10px;
+    color: darkslategray;
+    border: 3px solid lightgray;
+    border-radius: 5px;
+    border-style: groove;
+}
+
+ul {
+    width: 75%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+    color: black;
+    font-weight: 600;
+    font-size: 1.3em;
+    margin-right: 50px;
+}
+
+.new-item-text{
+
+    border: solid 1px red;
+
+}
