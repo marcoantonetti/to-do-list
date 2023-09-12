@@ -1,4 +1,4 @@
-This is a very simple script with very basic HTML and CSS which I made years ago. But the goal was to practice JS and DOM.
+This is a very simple script with very basic HTML and CSS which I made years ago. But the goal was to practice JS and DOM manipulation.
 
 To do list
 
